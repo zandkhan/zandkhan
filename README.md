@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Hossein Zand
 
-I'm a Software master student thats very passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore take great pleasure out of working on interesting opensource projects.
+I'm a software expert thats very passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore take great pleasure out of working on interesting opensource projects.
 
 <!-- Light Mode -->
 <div align="center"> 
